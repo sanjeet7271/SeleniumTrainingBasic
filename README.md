@@ -4,12 +4,11 @@
 1. Dependency management and project management by Local(within Project itself -> latest one)
 2. TestNG for testing work flow
 3. TestNG reports
-4. Logging via Log4j
-5. Property Reader to read Test data from properties files.
-6. Custom assertion to print custom message when assertion fails.
-7. Used dataProvider to create multiple user, post and comments, reading test data from excel sheet
-8. All offline jar and drivers are placed into project itself.
-9. There are 4 test cases and All test cases are independent to each other.
+4. Property Reader to read Test data from properties files.
+5. Custom assertion to print custom message when assertion fails.
+6. Used dataProvider to create multiple user, post and comments, reading test data from excel sheet
+7. All offline jar and drivers are placed into project itself.
+8. There are 4 test cases and All test cases are independent to each other.
 
 ## Pre-requisite
 1. Java version above 1.8.
