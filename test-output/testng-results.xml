@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="113773" started-at="2020-03-26T16:21:41Z" finished-at="2020-03-26T16:23:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="113773" started-at="2020-03-26T16:21:41Z" finished-at="2020-03-26T16:23:35Z">
+      <class name="com.nagp.testcases.TestCases">
+        <test-method status="PASS" signature="setBrowsers()[pri:0, instance:com.nagp.testcases.TestCases@4678c730]" name="setBrowsers" is-config="true" duration-ms="9416" started-at="2020-03-26T16:21:41Z" finished-at="2020-03-26T16:21:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowsers -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.nagp.testcases.TestCases@4678c730]" name="verifyHomePageTitleTest" duration-ms="7366" started-at="2020-03-26T16:21:50Z" description="verify title of the webpage" finished-at="2020-03-26T16:21:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nagp.testcases.TestCases@4678c730]" name="tearDown" is-config="true" duration-ms="1361" started-at="2020-03-26T16:21:58Z" finished-at="2020-03-26T16:21:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setBrowsers()[pri:0, instance:com.nagp.testcases.TestCases@4678c730]" name="setBrowsers" is-config="true" duration-ms="3686" started-at="2020-03-26T16:21:59Z" finished-at="2020-03-26T16:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowsers -->
+        <test-method status="PASS" signature="verifyHoverAndClick()[pri:2, instance:com.nagp.testcases.TestCases@4678c730]" name="verifyHoverAndClick" duration-ms="21981" started-at="2020-03-26T16:22:03Z" description="hover the curser to Women and T-Shirt link" finished-at="2020-03-26T16:22:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHoverAndClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nagp.testcases.TestCases@4678c730]" name="tearDown" is-config="true" duration-ms="867" started-at="2020-03-26T16:22:25Z" finished-at="2020-03-26T16:22:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setBrowsers()[pri:0, instance:com.nagp.testcases.TestCases@4678c730]" name="setBrowsers" is-config="true" duration-ms="3158" started-at="2020-03-26T16:22:27Z" finished-at="2020-03-26T16:22:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowsers -->
+        <test-method status="PASS" signature="countProductOnPage(java.lang.String)[pri:3, instance:com.nagp.testcases.TestCases@4678c730]" name="countProductOnPage" duration-ms="27049" started-at="2020-03-26T16:22:30Z" description="verify the number of links present on the women T-Shirt section webpage" data-provider="productcount" finished-at="2020-03-26T16:22:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- countProductOnPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nagp.testcases.TestCases@4678c730]" name="tearDown" is-config="true" duration-ms="939" started-at="2020-03-26T16:22:57Z" finished-at="2020-03-26T16:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setBrowsers()[pri:0, instance:com.nagp.testcases.TestCases@4678c730]" name="setBrowsers" is-config="true" duration-ms="2893" started-at="2020-03-26T16:22:58Z" finished-at="2020-03-26T16:23:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowsers -->
+        <test-method status="PASS" signature="searchProductOnPage(java.lang.String)[pri:4, instance:com.nagp.testcases.TestCases@4678c730]" name="searchProductOnPage" duration-ms="32803" started-at="2020-03-26T16:23:01Z" description="verify the product name search through search box" data-provider="productname" finished-at="2020-03-26T16:23:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Faded Short Sleeve T-shirts]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProductOnPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.nagp.testcases.TestCases@4678c730]" name="tearDown" is-config="true" duration-ms="899" started-at="2020-03-26T16:23:34Z" finished-at="2020-03-26T16:23:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.nagp.testcases.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
